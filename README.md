@@ -202,6 +202,13 @@ Se implementaron diagramas de flujo para:
 Estos diagramas permiten comprender el sistema sin necesidad de revisar el código fuente.
 
 ---
+## 🖼️ Capturas del sistema
+
+### Pantalla de inicio de sesión
+![Login](docs/screenshots/login.png)
+
+
+---
 
 ## ✅ Conclusión
 
