@@ -209,8 +209,17 @@ Estos diagramas permiten comprender el sistema sin necesidad de revisar el códi
 
 ### Panel de administración
 ![Dashboard](docs/screenshots/dashboard.png)
----
 
+
+## 🔄 Diagramas
+
+### Diagrama de flujo – Inicio de sesión
+![Flujo Login](docs/diagrams/flujo-login.png)
+
+### Modelo de datos
+![Modelo de datos](docs/diagrams/modelo-datos.png)
+
+---
 ## ✅ Conclusión
 
 Durante el desarrollo se aplicaron metodologías ágiles (Scrum), levantamiento de requerimientos mediante entrevistas y documentación constante.
