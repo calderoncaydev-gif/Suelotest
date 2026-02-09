@@ -207,7 +207,8 @@ Estos diagramas permiten comprender el sistema sin necesidad de revisar el códi
 ### Pantalla de inicio de sesión
 ![Login](docs/screenshots/login.png)
 
-
+### Panel de administración
+![Dashboard](docs/screenshots/dashboard.png)
 ---
 
 ## ✅ Conclusión
